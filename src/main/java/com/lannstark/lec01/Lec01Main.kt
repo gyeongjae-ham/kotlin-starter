@@ -1,5 +1,6 @@
 package com.lannstark.lec01
 
+// 코틀린에서 변수를 다루는 방법
 fun main() {
     // 변수(가변)
     var number1: Long = 10L
