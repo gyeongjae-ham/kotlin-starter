@@ -1,4 +1,4 @@
-package com.lannstark.lec07
+package lannstark.lec07
 
 import java.io.BufferedReader
 import java.io.FileReader

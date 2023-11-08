@@ -1,6 +1,4 @@
-package com.lannstark.lec07
-
-import java.lang.NumberFormatException
+package lannstark.lec07
 
 // 코틀린에서 예외를 다루는 방법
 /**

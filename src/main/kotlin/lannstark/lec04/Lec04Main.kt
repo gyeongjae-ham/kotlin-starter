@@ -1,4 +1,6 @@
-package com.lannstark.lec04
+package lannstark.lec04
+
+import com.lannstark.lec04.JavaMoney
 
 // 코틀린에서 연산자를 다루는 방법
 /**

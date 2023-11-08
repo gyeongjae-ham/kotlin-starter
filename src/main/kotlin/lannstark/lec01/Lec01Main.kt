@@ -1,4 +1,6 @@
-package com.lannstark.lec01
+package lannstark.lec01
+
+import com.lannstark.lec01.Person
 
 // 코틀린에서 변수를 다루는 방법
 fun main() {

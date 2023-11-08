@@ -1,4 +1,4 @@
-package com.lannstark.lec06
+package lannstark.lec06
 
 // 코틀린에서 반복문을 다루는 방법
 /**

@@ -1,4 +1,4 @@
-package com.lannstark.lec09
+package lannstark.lec09
 
 // 코틀린에서 클래스를 다루는 방법
 /**

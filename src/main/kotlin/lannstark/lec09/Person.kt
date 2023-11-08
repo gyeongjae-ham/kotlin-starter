@@ -1,6 +1,4 @@
-package com.lannstark.lec09
-
-import javax.naming.Name
+package lannstark.lec09
 
 fun main() {
     val person = Person("luca", 100)
@@ -39,9 +37,9 @@ class Person(
 
     // 커스텀 getter 구현 방법
     // 함수로 구현하거나 프로퍼티처럼 구현할 수도 있다
-    fun isAdult(): Boolean {
-        return this.age >= 20
-    }
+//    fun isAdult(): Boolean {
+//        return this.age >= 20
+//    }
 
     val isAdult: Boolean
         get() = this.age >= 20

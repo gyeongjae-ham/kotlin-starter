@@ -1,4 +1,6 @@
-package com.lannstark.lec03
+package lannstark.lec03
+
+import com.lannstark.lec03.Person
 
 // 코틀린에서 Type을 다루는 방법
 /**

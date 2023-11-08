@@ -1,4 +1,4 @@
-package com.lannstark.lec02
+package lannstark.lec02
 
 // 코틀린에서 null을 다루는 방법
 fun main() {

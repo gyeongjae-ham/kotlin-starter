@@ -1,4 +1,4 @@
-package com.lannstark.lec05
+package lannstark.lec05
 
 // 코틀린에서 조건문을 다루는 방법
 fun validateScoreIsNotNegative(score: Int) {

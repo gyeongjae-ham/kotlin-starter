@@ -1,4 +1,4 @@
-package com.lannstark.lec08
+package lannstark.lec08
 
 // 코틀린에서 함수를 다루는 방법
 /**
