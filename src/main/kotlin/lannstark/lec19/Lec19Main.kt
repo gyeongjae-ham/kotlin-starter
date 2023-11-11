@@ -69,4 +69,15 @@ fun main2() {
     val name2 = person2.component1()
     val age2 = person2.component2()
 
+    // foreach
+    val numbers = listOf(1, 2, 3)
+    numbers.map { number -> number + 1 }
+        .forEach { number -> println(number) }
+
+    // takeif
+    // 주어진 조건을 만족하면 그 값이, 그렇지 않으면 null이 반환된다
+    val number = 100
+    fun getNumberOrNullV2(): Int? {
+        return number.takeIf { it > 0 }
+    }
 }
